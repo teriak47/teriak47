@@ -9,6 +9,6 @@
 
 ### Bonjour 👋, Merci de visiter mon profil.
 
-- 🔭 Je travail actuellement sur un serveur RP GTA V.
-- 🌱 J'apprend tout les jours.
+- 🔭 Je travaille actuellement sur un serveur RP GTA V.
+- 🌱 J'apprends tout les jours.
 - 💖 Sponsor me to support my open source work. https://github.com/sponsors/teriak47
