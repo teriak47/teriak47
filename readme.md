@@ -1,14 +1,35 @@
-<p>
-  <a href="https://twitter.com/teriak47">
-    <img src="https://img.shields.io/twitter/follow/teriak47?style=for-the-badge" alt="Twitter">
-  </a>&ensp;
-  <a href="https://www.triskel-rp.eu">
-    <img src="https://img.shields.io/website?style=for-the-badge&up_message=triskel-rp&url=https%3A%2F%2Fwww.triskel-rp.eu%2F" alt="Triskel-RP">
-  </a>
-</p>
+### 👋 Bonjour, bienvenue sur mon profil GitHub.
 
-### Bonjour 👋, Merci de visiter mon profil.
+Je m'appelle Julien (alias **Teriak**).  
+🎓 Étudiant en **Cybersécurité** (IFAPME)  
+🛠️ Passionné par la sécurité des systèmes, la documentation technique et l'organisation avancée via Obsidian.
 
-- 🔭 Je travaille actuellement sur un serveur RP GTA V.
-- 🌱 J'apprends tout les jours.
-- 💖 Sponsor me to support my open source work. https://github.com/sponsors/teriak47
+---
+
+### 🔐 Domaines d'intérêt
+- Cybersécurité & analyse des risques  
+- Réseaux & protocoles  
+- Systèmes Windows / Linux  
+- Organisation & knowledge management (Obsidian, vaults structurés)  
+- Automatisation / outils pratiques  
+
+---
+
+### 📚 Ce que je fais ici
+- Notes et projets liés à ma formation en cybersécurité  
+- Scripts ou outils simples pour automatiser certaines tâches  
+- Expérimentations perso (tests, labs, configurations)
+
+---
+
+### 🌐 Présence en ligne
+- **Blog (en construction)** : https://teriak.eu  
+- **ORCID** : https://orcid.org/0009-0007-0341-2536
+
+---
+
+### 💬 À propos
+J’apprends en continu et je documente presque tout.  
+Mon objectif est de construire un écosystème propre, clair et réutilisable autour de la cybersécurité.
+
+
