@@ -23,7 +23,7 @@ Je m'appelle Julien (alias **Teriak**).
 ---
 
 ### 🌐 Présence en ligne
-- **Blog (en construction)** : https://teriak.eu  
+- **Site** : https://www.julienk.be/  
 - **ORCID** : https://orcid.org/0009-0007-0341-2536
 
 ---
